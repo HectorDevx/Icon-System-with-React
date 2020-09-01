@@ -1,6 +1,5 @@
 # Icon-System-with-React
-
-A system for icons systems with React.
+Tutorial. Implementa un sistema de iconos fácil y rápido.
 
 ## Enlaces de interés 🔗
 
