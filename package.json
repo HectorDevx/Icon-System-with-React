@@ -1,0 +1,20 @@
+{
+  "name": "Icon-System-with-React",
+  "version": "1.0.0",
+  "description": "A system for icons systems with React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HectorDevx/Icon-System-with-React.git"
+  },
+  "keywords": [],
+  "author": "Héctor Reyes <hectordevx@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HectorDevx/Icon-System-with-React/issues"
+  },
+  "homepage": "https://github.com/HectorDevx/Icon-System-with-React#readme"
+}
