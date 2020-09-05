@@ -1,54 +1,43 @@
 # Icon-System-with-React
-Tutorial. Implementa un sistema de iconos fácil y rápido.
+
+Tutorial. Implementa un sistema de iconos fácil y rápido con React.
 
 ## Enlaces de interés 🔗
 
-- [Figma Design](https://www.figma.com/) - Diseño de Interfaz de Usuario
-- [Behance](https://www.behance.net/) - Sistema de Diseño
+- [Figma Design](https://www.figma.com/) - Diseño de Interfaz de Usuario 🛠
 
 ## Instalación 🔧
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de educación y desarrollo._
+Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de educación y desarrollo.
 
 ### Pre-requisitos 📋
 
-_Necesitas estas tecnologías para instalar y utilizar el proyecto._
+Necesitas estas tecnologías para instalar y utilizar el proyecto.
 
 ```
-Ejemplo
+git
+npm
 ```
+
+Conocimiento básico de SVG.
 
 ### Instrucciones 📔
 
-_Serie de ejemplos paso a paso sobre lo que debes ejecutar para tener el entorno de desarrollo en funcionamiento. Descripción del paso_
+Serie de ejemplos paso a paso sobre lo que debes ejecutar para tener el entorno de desarrollo en funcionamiento. Descripción del paso
 
 ```
-Ejemplo
+git clone https://github.com/HectorDevx/Icon-System-with-React.git
 ```
 
-_Repite hasta completar el procedimiento_
-
 ```
-Ejemplo
+npm install
 ```
 
-_Descripción final de cómo utilizar el proyecto._
-
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema._
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué._
-
 ```
-Ejemplo
+npm run start
 ```
 
-## Despliegue 📦
-
-_Notas adicionales sobre como hacer el deploy del proyecto._
+Utiliza el proyecto como guía o el código final en tu poryecto.
 
 ## Construido con 🛠️
 
@@ -57,26 +46,19 @@ _Las herramientas utilizadas para crear el proyecto._
 - [NPM](https://www.npmjs.com/) - Manejador de dependencias.
 - [React](https://es.reactjs.org/) - Librería web utilizada.
 - [Styled Components](https://styled-components.com/s://maven.apache.org/) - Framework de estilos.
+- [Figma Design](https://www.figma.com/) - Diseño de Interfaz de Usuario 🛠
 
 ## Contribuir 🖇️
 
-Por favor lee el [CONTRIBUTE.md](https://gist.github.com/) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+Eres libre de contribuir a mejorar este proyecto. Vía Pull Request.
 
-## Wiki 📖
+## Autor ✒️
 
-_Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)_
-
-## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a crear el proyecto._
-
-- **Héctor Reyes** - _Desarrollo_ - [HéctorDevx](https://github.com/HectorDevx)
-
-También puedes ver la lista de todos los [contribuidores](https://github.com/your/project/contributors) que han participado en este proyecto.
+- **Héctor Reyes** - _Diseño y Desarrollo_ - [HéctorDevx](https://github.com/HectorDevx)
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles.
+Este proyecto está bajo la Licencia (MIT).
 
 ## Gracias 🎁
 
